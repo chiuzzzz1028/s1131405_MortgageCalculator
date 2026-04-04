@@ -6,6 +6,6 @@ s1131405_MortgageCalculator
 2. 設定自備款比例與貸款利率（支援百分比輸入）。
 3. 選擇貸款年限並設定寬限期。
 4. 點擊「計算」後，系統會自動跳轉至「結果」分頁顯示詳細報表。
-5.具備預設值（20% 自備款、2.15% 利率）引導使用者。
+5. 具備預設值（20% 自備款、2.15% 利率）引導使用者。
 <img width="1405" height="853" alt="image" src="https://github.com/user-attachments/assets/45579362-5baa-4dc7-bb67-2cfb27db40c3" />
 <img width="1410" height="850" alt="image" src="https://github.com/user-attachments/assets/2e7017c2-9f11-43cf-82f6-18d8fe80db45" />
